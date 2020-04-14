@@ -3,7 +3,7 @@
  * 订单API.
  */
 
-namespace hVenus\JingdongAPI\API;
+namespace scpzc\JingdongAPI\API;
 
 
 trait ORDER

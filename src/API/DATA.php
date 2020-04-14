@@ -3,7 +3,7 @@
  * 云海API.
  */
 
-namespace hVenus\JingdongAPI\API;
+namespace scpzc\JingdongAPI\API;
 
 
 trait DATA

@@ -3,7 +3,7 @@
  * 二维码API.
  */
 
-namespace hVenus\JingdongAPI\API;
+namespace scpzc\JingdongAPI\API;
 
 
 trait QRCODE

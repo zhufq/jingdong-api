@@ -3,7 +3,7 @@
  * 核心基类.
  */
 
-namespace hVenus\JingdongAPI\Core;
+namespace scpzc\JingdongAPI\Core;
 
 
 class BaseClass

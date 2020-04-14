@@ -3,7 +3,7 @@
  * JingDong Express Interface.
  */
 
-namespace hVenus\JingdongAPI;
+namespace scpzc\JingdongAPI;
 
 
 interface JingDongExpressInterface
