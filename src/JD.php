@@ -75,7 +75,6 @@ class JD extends BaseClass
 
         // 获取接口数据
         $result = $this->HttpGet($this->config['url'], $this->config['uri'], $p);
-        var_dump($result);exit;
         return $result;
     }
 
