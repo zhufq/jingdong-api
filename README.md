@@ -1,7 +1,7 @@
 # Jingdong-api
 京东接口
 
-> 本接口基于 hvenus/Jingdong-api修改 ，版本归原作者所有，增加了一些功能，修复了一些BUG。
+> 本接口基于 hvenus/Jingdong-api修改 ，版权归原作者所有，增加了一些功能，修复了一些BUG。
 
 ## 安装
 
