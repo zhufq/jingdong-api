@@ -89,7 +89,7 @@ PHP函数不允许以数字开头，所以所有数字开头的前面都多加�
 
 示例
 ```php
-	$jd = new JD();
+$jd = new JD();
     $config = [
         'app_key'       => config('jd.express.app_key'),
         'app_secret'    => config('jd.express.app_secret'),
