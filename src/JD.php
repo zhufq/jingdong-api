@@ -7,7 +7,7 @@ namespace scpzc\JingdongAPI;
 class JD
 {
     public function test(){
-        echo 1;exit;
+        echo 1111;exit;
         $c = new JdClient();
         $c->appKey = "26EAC2509056EB38FB623D9A49296D2C";
         $c->appSecret = "1abdc5a97ecb4594ab7b772296bcfbbd";
