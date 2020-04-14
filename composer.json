@@ -20,7 +20,7 @@
 	},
     "autoload": {
         "psr-4": {
-            "scpzc\\JingdongAPI\\": "jos-php-open-api-sdk-2.0/security/"
+            "scpzc\\JingdongAPI\\": "security/"
         }
     },
 }
