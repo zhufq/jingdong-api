@@ -5,16 +5,16 @@
 
 namespace Scpzc\JingdongAPI;
 
-use scpzc\JingdongAPI\API\ACCOUNT;
-use scpzc\JingdongAPI\API\ADDRESS;
-use scpzc\JingdongAPI\API\CATEGORY;
-use scpzc\JingdongAPI\API\DSP;
-use scpzc\JingdongAPI\API\ECLP;
-use scpzc\JingdongAPI\API\EXPRESS;
-use scpzc\JingdongAPI\API\Helper;
-use scpzc\JingdongAPI\API\ORDER;
-use scpzc\JingdongAPI\API\SHOP;
-use scpzc\JingdongAPI\Core\BaseClass;
+use Scpzc\JingdongAPI\API\ACCOUNT;
+use Scpzc\JingdongAPI\API\ADDRESS;
+use Scpzc\JingdongAPI\API\CATEGORY;
+use Scpzc\JingdongAPI\API\DSP;
+use Scpzc\JingdongAPI\API\ECLP;
+use Scpzc\JingdongAPI\API\EXPRESS;
+use Scpzc\JingdongAPI\API\Helper;
+use Scpzc\JingdongAPI\API\ORDER;
+use Scpzc\JingdongAPI\API\SHOP;
+use Scpzc\JingdongAPI\Core\BaseClass;
 
 class JD extends BaseClass
 {
