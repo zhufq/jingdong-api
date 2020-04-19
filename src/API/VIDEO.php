@@ -3,7 +3,7 @@
  * 视频服务API.
  */
 
-namespace scpzc\JingdongAPI\API;
+namespace Scpzc\JingdongAPI\API;
 
 
 trait VIDEO

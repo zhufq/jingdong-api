@@ -2,7 +2,7 @@
 /**
  * 服务市场API.
  */
-namespace scpzc\JingdongAPI\API;
+namespace Scpzc\JingdongAPI\API;
 
 
 trait SERVICE

@@ -3,7 +3,7 @@
  * 子账号API.
  */
 
-namespace scpzc\JingdongAPI\API;
+namespace Scpzc\JingdongAPI\API;
 
 
 trait ACCOUNT

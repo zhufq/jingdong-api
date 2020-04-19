@@ -3,7 +3,7 @@
  * 京东接口包装.
  */
 
-namespace scpzc\JingdongAPI;
+namespace Scpzc\JingdongAPI;
 
 use scpzc\JingdongAPI\API\ACCOUNT;
 use scpzc\JingdongAPI\API\ADDRESS;

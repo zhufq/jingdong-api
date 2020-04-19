@@ -2,7 +2,7 @@
 /**
  * ECLP仓海API，商家使用.
  */
-namespace scpzc\JingdongAPI\API;
+namespace Scpzc\JingdongAPI\API;
 
 
 trait ECLP

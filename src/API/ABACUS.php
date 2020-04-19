@@ -3,7 +3,7 @@
  * 金算盘API.
  */
 
-namespace scpzc\JingdongAPI\API;
+namespace Scpzc\JingdongAPI\API;
 
 
 trait ABACUS

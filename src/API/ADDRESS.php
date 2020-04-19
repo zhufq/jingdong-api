@@ -3,7 +3,7 @@
  * 京东地址库API.
  */
 
-namespace scpzc\JingdongAPI\API;
+namespace Scpzc\JingdongAPI\API;
 
 
 trait ADDRESS

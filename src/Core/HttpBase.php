@@ -3,7 +3,7 @@
  * http method.
  */
 
-namespace scpzc\JingdongAPI\Core;
+namespace Scpzc\JingdongAPI\Core;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\RequestException;

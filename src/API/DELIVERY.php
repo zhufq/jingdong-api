@@ -3,7 +3,7 @@
  * 配送API.
  */
 
-namespace scpzc\JingdongAPI\API;
+namespace Scpzc\JingdongAPI\API;
 
 
 trait DELIVERY

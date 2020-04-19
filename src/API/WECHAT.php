@@ -3,7 +3,7 @@
  * 微信手Q开放API
  */
 
-namespace scpzc\JingdongAPI\API;
+namespace Scpzc\JingdongAPI\API;
 
 
 trait WECHAT

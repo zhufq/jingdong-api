@@ -3,7 +3,7 @@
  * 核心基类.
  */
 
-namespace scpzc\JingdongAPI\Core;
+namespace Scpzc\JingdongAPI\Core;
 
 
 class BaseClass

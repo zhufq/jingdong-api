@@ -3,7 +3,7 @@
  * 阿尔法API.
  */
 
-namespace scpzc\JingdongAPI\API;
+namespace Scpzc\JingdongAPI\API;
 
 
 trait ALPHA

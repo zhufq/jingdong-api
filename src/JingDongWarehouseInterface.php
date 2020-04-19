@@ -3,7 +3,7 @@
  * JingDong Warehouse Interface.
  */
 
-namespace scpzc\JingdongAPI;
+namespace Scpzc\JingdongAPI;
 
 
 interface JingDongWarehouseInterface

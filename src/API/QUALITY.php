@@ -2,7 +2,7 @@
 /**
  * 品控质检API.
  */
-namespace scpzc\JingdongAPI\API;
+namespace Scpzc\JingdongAPI\API;
 
 
 trait QUALITY

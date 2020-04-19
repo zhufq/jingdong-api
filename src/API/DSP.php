@@ -2,7 +2,7 @@
 /**
  * 京准通-快车API.
  */
-namespace scpzc\JingdongAPI\API;
+namespace Scpzc\JingdongAPI\API;
 
 
 trait DSP

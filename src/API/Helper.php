@@ -1,5 +1,5 @@
 <?php
-namespace scpzc\JingdongAPI\API;
+namespace Scpzc\JingdongAPI\API;
 
 trait Helper
 {

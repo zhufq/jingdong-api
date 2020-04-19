@@ -2,7 +2,7 @@
 /**
  * SOP仓储API.
  */
-namespace scpzc\JingdongAPI\API;
+namespace Scpzc\JingdongAPI\API;
 
 
 trait SOP
