@@ -441,4 +441,38 @@ trait ECLP
         return $this->call_jd_function('jingdong.eclp.rtw.rejectorderinfo', $param);
     }
 
+
+	//	中小件B2B实时查询接口
+	public function ECLPB2BLwbFreightMain($param) {
+		return $this->call_jd_function('jingdong.eclp.co.evaluateB2BLwbFreightMain', $param);
+	}
+	//下单接口
+	public function ECLPcreateWbOrder($param) {
+		return $this->call_jd_function('jingdong.eclp.co.createWbOrder', $param);
+	}
+
+	//获取重量
+	public function ECLGetWeight($param) {
+		return $this->call_jd_function('jingdong.ldop.middle.waybill.weight.query', $param);
+	}
+	//取消运单接口
+	public function ECLGCancel($param){
+		return $this->call_jd_function('jingdong.eclp.co.cancelWaybill', $param);
+	}
+
+	//查询物流信息
+	public function ECLGQueryWuliu($param){
+		return $this->call_jd_function('jingdong.eclp.co.gotoB2BSWbMainAllTrack', $param);
+	}
+
+	//拦截接口
+	public function ECLGintercept($param){
+		return $this->call_jd_function('jingdong.eclp.co.cancelB2bLwbMain', $param);
+	}
+
+	//获取物品物流信息(这个里面包含体积)
+	public function ECLPGetVol($param){
+		return $this->call_jd_function('jingdong.eclp.co.queryB2BSWbMain', $param);
+	}
+
 }
