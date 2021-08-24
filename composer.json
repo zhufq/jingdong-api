@@ -1,10 +1,10 @@
 {
-    "name": "scpzc/jingdong-api",
+    "name": "zhufq/jingdong-api",
     "description": "京东接口",
     "authors": [
         {
-            "name": "scpzc",
-            "email": "scpzc@qq.com"
+            "name": "zhufq",
+            "email": "530497500@qq.com"
         }
     ],
     "minimum-stability": "dev",
